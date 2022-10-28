@@ -2,7 +2,7 @@ package store
 
 import (
 	storeDef "bookstore/store"
-	factory "bookstore/store/factory"
+	"bookstore/store/factory"
 	"fmt"
 	"sync"
 )
